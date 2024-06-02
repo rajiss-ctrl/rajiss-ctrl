@@ -1,4 +1,4 @@
-# <u>**Hi <img src="image.png" alt="alt text"/> My name is Raji**</u>
+# <u>**Hi <img src="hand.gif" alt="alt text"/> My name is Raji**</u>
 
 ## <u>**Frontend Enginee**</u>
 
