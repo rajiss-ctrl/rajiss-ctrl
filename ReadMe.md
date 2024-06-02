@@ -1,5 +1,7 @@
-#<u>**Hi ![alt text](image.png) My name is Raji**</u>
-##<u>**Frontend Enginee**</u>
+# <u>**Hi <img src="image.png" alt="alt text"/> My name is Raji**</u>
+
+## <u>**Frontend Enginee**</u>
+
 I am an Inventive, Creative and Enthusiastic Frontend Engineer with 2+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
 
 * 🤝  I'm open to collaborating on interesting projects
