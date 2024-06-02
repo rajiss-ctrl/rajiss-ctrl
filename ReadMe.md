@@ -8,16 +8,10 @@ I am an Inventive, Creative and Enthusiastic Frontend Engineer with 2+ years uti
 * ✉️  You can contact me at omosanjos77@gmail.com
 
 [![alt text](image-1.png)](https://www.github.com/rajiss-ctrl)
-[![alt text](image-10.png)](https://www.twitter.com/rajisanjo)
+
 
 
 **Skills**
 
-<img src="image-2.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-4.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-5.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-6.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-7.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-8.png" alt="alt text" style="width: 80px; height: 80px;"> 
-<img src="image-9.png" alt="alt text" style="width: 80px; height: 80px;"> 
+<img src="image-2.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-4.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-5.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-6.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-7.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-8.png" alt="alt text" style="width: 80px; height: 80px;"> <img src="image-9.png" alt="alt text" style="width: 80px; height: 80px;"> 
  
